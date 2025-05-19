@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160758805718",
+    "project_id": "carrentalmonitor-5705c",
+    "storage_bucket": "carrentalmonitor-5705c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160758805718:android:35befb05487ecbc23e0577",
+        "android_client_info": {
+          "package_name": "com.infosys.carrentalmonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0oChDFpX6TVsmb2AkY5RIfZWWdOC2gto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
